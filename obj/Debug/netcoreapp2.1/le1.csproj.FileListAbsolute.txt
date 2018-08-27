@@ -1,0 +1,11 @@
+C:\Users\William\workspace\csharp\exercises\lightning-exercises\le1\bin\Debug\netcoreapp2.1\le1.deps.json
+C:\Users\William\workspace\csharp\exercises\lightning-exercises\le1\bin\Debug\netcoreapp2.1\le1.runtimeconfig.json
+C:\Users\William\workspace\csharp\exercises\lightning-exercises\le1\bin\Debug\netcoreapp2.1\le1.runtimeconfig.dev.json
+C:\Users\William\workspace\csharp\exercises\lightning-exercises\le1\bin\Debug\netcoreapp2.1\le1.dll
+C:\Users\William\workspace\csharp\exercises\lightning-exercises\le1\bin\Debug\netcoreapp2.1\le1.pdb
+C:\Users\William\workspace\csharp\exercises\lightning-exercises\le1\obj\Debug\netcoreapp2.1\le1.csprojAssemblyReference.cache
+C:\Users\William\workspace\csharp\exercises\lightning-exercises\le1\obj\Debug\netcoreapp2.1\le1.csproj.CoreCompileInputs.cache
+C:\Users\William\workspace\csharp\exercises\lightning-exercises\le1\obj\Debug\netcoreapp2.1\le1.AssemblyInfoInputs.cache
+C:\Users\William\workspace\csharp\exercises\lightning-exercises\le1\obj\Debug\netcoreapp2.1\le1.AssemblyInfo.cs
+C:\Users\William\workspace\csharp\exercises\lightning-exercises\le1\obj\Debug\netcoreapp2.1\le1.dll
+C:\Users\William\workspace\csharp\exercises\lightning-exercises\le1\obj\Debug\netcoreapp2.1\le1.pdb

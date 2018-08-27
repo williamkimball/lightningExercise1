@@ -1,0 +1,4 @@
+C:\Users\William\workspace\csharp\exercises\lightning-exercises\le1\obj\Debug\netcoreapp2.1\Lightning.csprojAssemblyReference.cache
+C:\Users\William\workspace\csharp\exercises\lightning-exercises\le1\obj\Debug\netcoreapp2.1\Lightning.csproj.CoreCompileInputs.cache
+C:\Users\William\workspace\csharp\exercises\lightning-exercises\le1\obj\Debug\netcoreapp2.1\Lightning.AssemblyInfoInputs.cache
+C:\Users\William\workspace\csharp\exercises\lightning-exercises\le1\obj\Debug\netcoreapp2.1\Lightning.AssemblyInfo.cs
